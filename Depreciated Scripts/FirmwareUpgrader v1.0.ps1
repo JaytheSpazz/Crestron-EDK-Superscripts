@@ -1,4 +1,4 @@
-### Crrestron Firmware Upgrade Superscript
+﻿### Crrestron Firmware Upgrade Superscript
 ###Script will call IP addresses from list and try to upgrade firmware version bas
 
 write-host @" 
